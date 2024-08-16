@@ -15,3 +15,6 @@
 
 - **Data Generation for Training**:
   - `data_generator.py` provides batch data generation for Keras training.
+
+- **Detailed Function Usage**:
+  - Refer to the `Show_data` notebook for detailed instructions on each function, from loading data to training a model.
